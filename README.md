@@ -1,2 +1,1 @@
-# drunken-sansa
-this is a throwaway repo so i can get how project pages work. 
+website: [http://25x52.com](http://25x52.com)
